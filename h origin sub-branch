@@ -1,0 +1,32 @@
+[33mcommit 865004551a7e50a34fd891addc0da4fd7dc21129[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msub-branch[m[33m)[m
+Author: pasindu100 <dilshanp5400@gmail.com>
+Date:   Wed Oct 23 20:41:29 2024 +0530
+
+    Your commit message
+
+[33mcommit 88ecb3672ef6b7a9f64471092a4ab0f5bf9a97be[m[33m ([m[1;31morigin/sub-branch[m[33m)[m
+Author: pasindu100 <dilshanp5400@gmail.com>
+Date:   Wed Oct 23 18:15:33 2024 +0530
+
+    configure packages
+
+[33mcommit 895c57ab20cf45ae3fed9a30b0e58ca693ebf6e9[m
+Author: pasindu100 <dilshanp5400@gmail.com>
+Date:   Sun Oct 20 22:32:13 2024 +0530
+
+    create responsive navbar
+
+[33mcommit 4000733fe4cd90eb047bdd107fb1dedc9a6d0edf[m
+Author: pasindu100 <dilshanp5400@gmail.com>
+Date:   Sun Oct 20 20:17:45 2024 +0530
+
+    add news app folder structure
+
+[33mcommit 252bcf9301d4f304c16a3a6754cd259ce574d619[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+[41mgpg: Signature made Sun Oct 20 13:02:11 2024 IST[m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: Pasindu Dilshan <157018352+pasindud100@users.noreply.github.com>
+Date:   Sun Oct 20 13:02:11 2024 +0530
+
+    Initial commit
