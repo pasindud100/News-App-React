@@ -1,6 +1,6 @@
 import image from '../assets/react.svg';
 
-function NewsItems({title, description, src, url}) {
+function NewsItem({title, description, src, url}) {
   return (
     <div className="d-inline-block ">
     <div className="card bg-dark  text-light mb-3  my-3 mx-3 px-2 py-2 " style={{ height:"450px", width:"370px"}}>
@@ -16,4 +16,4 @@ function NewsItems({title, description, src, url}) {
   )
 }
 
-export default NewsItems
+export default NewsItem
